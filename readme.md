@@ -5,4 +5,4 @@ Running gauss_gui.py requires pycuda.
 
 If you want to use your own images, put them into the images folder. The example images have sizes 256x256 and 256x192.
 
-Viewer code written by Pauli Kemppinen at [bitbucket.org/msqrt/viewer/src/master/](https://bitbucket.org/msqrt/viewer/src/master/).
+Viewer code written by Pauli Kemppinen ([bitbucket.org/msqrt/viewer/src/master/](https://bitbucket.org/msqrt/viewer/src/master/)).
